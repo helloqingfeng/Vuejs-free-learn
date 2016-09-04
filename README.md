@@ -3,7 +3,7 @@
 
 **原文地址：** http://phpecshop.blog.51cto.com/6296699/1834208
 
-![](http://ww2.sinaimg.cn/large/66101050jw1f7hxsaw5mzj20gv0bfdfu.jpg)
+![](http://ww4.sinaimg.cn/large/66101050jw1f7hxzrh0scj20yz0bf0sv.jpg)
 
 ## Vue.js 中文官网：http://cn.vuejs.org/
 
